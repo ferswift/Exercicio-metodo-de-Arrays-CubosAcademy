@@ -1,4 +1,4 @@
-https://i.imgur.com/xG74tOh.png
+![](https://i.imgur.com/xG74tOh.png)
 
 Teste suas habilidades
 const texto = ['Banana', 'Maçã', 'Abacaxi', 'Pêra', 'Uva'];
